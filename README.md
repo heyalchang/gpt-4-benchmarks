@@ -1,6 +1,6 @@
-# gpt-4-benchmarks
+# GPT-4 Benchmarks
 
-GPT-4 architecture
+Reverse-engineering the GPT-4 language model through physics simulations.
 
 TODO:
 
