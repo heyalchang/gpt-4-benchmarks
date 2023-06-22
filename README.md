@@ -15,3 +15,7 @@ TODO:
 Swift Colab notebook that inputs data about max bandwidth achieved on A100 for FP16 and Int8 matrix multiplication, inputs latency of FlashAttention for different sequence sizes.
 
 Timeframe: will have to work on the notebook in spare time, might take a few days to finish.
+
+## Motivation
+
+This is out of academic curiosity. I have been interested in GPT-4 for a while, ever since the launch video said it could write code very well. Unfortunately OpenAI wasn't open and didn't release a paper explaining its architecture. This repo is hopefully a remedy for that. My goal is to reach better accuracy than [lucidrains/alphafold2](https://github.com/lucidrains/alphafold2) at predicting AlphaFold 2.
