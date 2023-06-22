@@ -14,4 +14,4 @@ TODO:
 
 Swift Colab notebook that inputs data about max bandwidth achieved on A100 for FP16 and Int8 matrix multiplication, inputs latency of FlashAttention for different sequence sizes.
 
-Timeframe: will have to work on the script in spare time, might take a few days to finish.
+Timeframe: will have to work on the notebook in spare time, might take a few days to finish.
