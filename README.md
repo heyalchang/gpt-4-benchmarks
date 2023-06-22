@@ -2,6 +2,8 @@
 
 Reverse-engineering the GPT-4 language model through simulation.
 
+![GPT-4 Initial Hypothesis](./Documentation/gpt-4-initial-hypothesis.png)
+
 ## What we know so far
 
 Unconfirmed statement that GPT-4 is "8 x 220 B with 16 inferences". What those words mean is not completely understood. You would expect 8 separate models = 8 separate inferences, but instead it is 16. Why?
