@@ -4,7 +4,7 @@ Reverse-engineering the GPT-4 language model through simulation.
 
 ## What we know so far
 
-Unconfirmed statement that GPT-4 is "8 x 220 B with 16 inferences". What those words mean is not completely understood. You would expect 8 separate models = 8 separate inferences, but instead we have 16. Why?
+Unconfirmed statement that GPT-4 is "8 x 220 B with 16 inferences". What those words mean is not completely understood. You would expect 8 separate models = 8 separate inferences, but instead it is 16. Why?
 
 Empirical data:
 - 13.1 tokens/second peak on the OpenAI API, with 6-12 tokens/second on average
