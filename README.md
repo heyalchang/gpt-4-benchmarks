@@ -1,6 +1,6 @@
 # GPT-4 Benchmarks
 
-Reverse-engineering the GPT-4 language model through physics simulations.
+Reverse-engineering the GPT-4 language model via physics simulation.
 
 TODO:
 
